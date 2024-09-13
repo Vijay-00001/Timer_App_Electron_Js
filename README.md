@@ -1,4 +1,4 @@
-# timer-app
+# Timer_App_Electron_Js
 
 An Electron application with React and TypeScript
 
